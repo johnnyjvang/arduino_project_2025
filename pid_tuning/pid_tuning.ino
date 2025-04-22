@@ -1,4 +1,5 @@
 // ----- Pin Definitions -----
+
 #define ENCODER_A 2      // Encoder A signal pin (Interrupt)
 #define ENCODER_B 3      // Encoder B signal pin
 #define MOTOR_PWM 9      // Motor PWM control pin
